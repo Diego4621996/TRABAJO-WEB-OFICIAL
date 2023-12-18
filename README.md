@@ -1,7 +1,6 @@
 # TRABAJO-WEB-OFICIAL
 Soy Diego Rivera y este trabajo, es la Web que he tenido que desarrollar para la aignatura Fundamentos de la Ingeniería Informática. La web está en HTML y para la decoración de esta también he empleado CSS. La web consta de las siguientes secciones: - Una sección principal, que mostrará información sobre el sitio web.
-
-    Una sección de contacto, que incluirá un formulario para contactar con nosotros.
+Una sección de contacto, que incluirá un formulario para contactar con nosotros.
     Una sección de red, que mostrará información sobre las páginas de tus socios. Esto significa que debe vincular a los sitios web de tus socios.
     Una sección de temas, que mostrará información sobre un tema. Este puede ser el tema del trabajo práctico o otr tópico que elijas.
     Una sección sobre mí , que mostrará una pequeña descripción sobre ti. Esta sección incluirá una pequeña descripción basada en las unidades 2 y 3, un currículum vitae, dos fotografías y algunos enlaces a cuentas de redes sociales.
